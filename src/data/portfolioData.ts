@@ -27,7 +27,7 @@ export const personalInfo = {
     github: "https://github.com/tsisabit",
     linkedin: "https://www.linkedin.com/in/tsisabit",
     facebook: "https://www.facebook.com/tariksaidulislamsabit",
-    codeforces: "https://codeforces.com/profile/TSI_Sabit",
+    codeforces: "https://codeforces.com/profile/TSI_Sabit.",
     codechef: "https://www.codechef.com/users/tsi_sabit",
   },
   about: {
@@ -181,7 +181,7 @@ export const cpAchievements = {
       handle: "TSI Sabit",
       rating: "1150 Max Rating",
       solved: "600+ Problems Solved",
-      link: "https://codeforces.com/profile/TSI_Sabit",
+      link: "https://codeforces.com/profile/TSI_Sabit.",
     },
     {
       platform: "CodeChef",
