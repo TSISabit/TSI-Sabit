@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sabit. — Personal Developer Portfolio
 
-## Getting Started
+A modern, responsive, light-themed personal portfolio website built for **Tarik Saidul Islam Sabit** — Full Stack Web Developer, Computer Science & Engineering Undergraduate at BUBT, and Competitive Programmer.
 
-First, run the development server:
+## Live Demo
+- **Live Website:** [Add your Vercel Live Link here after deployment]
+- **Repository:** [https://github.com/TSISabit/TSI-Sabit](https://github.com/TSISabit/TSI-Sabit)[cite: 24]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Clean Light-Theme UI & Custom Branding:** Crafted with a soft off-white surface (`#F8FAFC`), glassmorphic sticky navigation bar, custom `"Sabit."` brand logo, and dynamic `"S"` favicon.
+- **Built-in Resume Viewer & One-Click Download:** Dedicated `/resume` preview route with an embedded PDF viewer alongside instant resume download support.
+- **Featured Projects & Dynamic Case-Study Pages:** Showcases **Bazar Dor**, **FitLog**, and **GoodGather**[cite: 2, 3] with dedicated `/projects/[id]` detail pages highlighting tech stacks, core features, development challenges, and future improvements.
+- **Competitive Programming Showcase:** Highlights onsite contest standings (including **4th Place at BUBT IUPC Summer 2026**[cite: 3]) and online judge profiles (**Codeforces** & **CodeChef** with 960+ problems solved[cite: 3]).
+- **Categorized Technical Skills:** Graphical progress-bar cards organized across Programming Languages, Frontend Development, and Backend/Tools[cite: 4].
+- **Education, Work & Leadership Timeline:** Structured sections detailing academic milestones, internships at Shohoj Coding, and campus leadership roles[cite: 4].
+- **Direct Contact Integration:** One-click Email, Phone, WhatsApp chat integration, and direct message form.
+- **Fully Responsive Design:** Optimized across desktop, tablet, and mobile viewports.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework:** Next.js 16 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React & React Icons
+- **Typography:** Plus Jakarta Sans (Google Fonts)
+- **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
