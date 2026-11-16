@@ -3,8 +3,8 @@
 A modern, responsive, light-themed personal portfolio website built for **Tarik Saidul Islam Sabit** — Full Stack Web Developer, Computer Science & Engineering Undergraduate at BUBT, and Competitive Programmer.
 
 ## Live Demo
-- **Live Website:** [Add your Vercel Live Link here after deployment]
-- **Repository:** [https://github.com/TSISabit/TSI-Sabit](https://github.com/TSISabit/TSI-Sabit)[cite: 24]
+- **Live Website:** (https://tsi-sabit.vercel.app/)
+- **Repository:** [https://github.com/TSISabit/TSI-Sabit](https://github.com/TSISabit/TSI-Sabit)
 
 ---
 
